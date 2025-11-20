@@ -65,4 +65,4 @@ A CRM application built with Angular and Bootstrap to help small and medium busi
 ## 📫 Contact
 - **Email:** aghor.rajagopalan@gmail.com  
 - **Location:** Thrissur, Kerala  
-- **LinkedIn:** https://www.linkedin.com/in/aghor-r-1536b926b/
+- **LinkedIn:** https://www.linkedin.com/in/aghor-r
