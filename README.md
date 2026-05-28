@@ -101,6 +101,8 @@ https://github.com/AghorMoorthy/todo-backend
 
 **Tech Stack:** Angular 20, TypeScript, Node.js, Express.js, PostgreSQL
 
+---
+
 ### Employee Management System (HRMS)
 
 A comprehensive HRMS application built with Angular for managing employee workflows across an organization.  
